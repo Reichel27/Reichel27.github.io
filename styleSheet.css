@@ -1,0 +1,17 @@
+* {
+    background-color: red;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+   }
+   
+.logo img{
+     width: 150px;
+     height: 70px;
+     padding: 10px;
+     background-color: cornsilk;
+}
